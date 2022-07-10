@@ -1,3 +1,3 @@
 정성훈
-Jiyun Park
+Jiyun Park: Python
 Dahyeon Woo
